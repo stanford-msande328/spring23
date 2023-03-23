@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 'MS&E228'
-tagline: Applied Causal Inference Powered by ML and AI
-description: A course on recent techniques at the intersection of causal inference and machine learning
-author: Vasilis Syrgkanis, Johannes Ferstad, Hui Lan
-baseurl: '/winter23' # the subpath of your site, e.g. /blog
-url: 'https://stanford-msande228.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+title: 'MS&E328/CS328'
+tagline: Foundations of Causal Machine Learning
+description: A theory course on recent techniques at the intersection of causal inference and machine learning
+author: Vasilis Syrgkanis
+baseurl: '/spring23' # the subpath of your site, e.g. /blog
+url: 'https://stanford-msande328.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,8 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Github:
-    - 'https://github.com/CausalAIBook/MetricsMLNotebooks'
 footer_content:
   This site uses Just-the-Class (https://github.com/kevinlin1/just-the-class), a class theme for Jekyll, which inherits from Just-the-Docs.
 
