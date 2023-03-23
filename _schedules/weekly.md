@@ -27,6 +27,7 @@ schedule:
         end: 4:20 PM
         location: Littlefield Center, Rm 107
   - name: Wednesday
+    events:
       - name: Office Hours
         start: 2:30 PM
         end: 3:30 PM
