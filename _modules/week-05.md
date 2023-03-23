@@ -10,6 +10,6 @@ May 2
 - [Machine Learning Estimation of Heterogeneous Treatment Effects with Instruments](https://arxiv.org/abs/1905.10176)
 
 May 4
-: **Student Presentations**{: .label .label-green } 
+: **Student Presentations**{: .label .label-blue } 
 - [Minimax rates for heterogeneous causal effect estimation](https://arxiv.org/abs/2203.00837)
 - [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning](https://arxiv.org/abs/1706.03461) and [Treatment Heterogeneity for Survival Outcomes](https://arxiv.org/abs/2207.07758)

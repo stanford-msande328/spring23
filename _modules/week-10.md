@@ -1,12 +1,8 @@
 ---
-title: Week 10
+title: Causal Discovery and Post-Discovery Inference
 ---
 
-Mar 13
-: **Homework**{: .label .label-blue } HW7 Released
-  : [[Google Doc]](https://docs.google.com/document/d/1Q6hoDeBnGhmFxiYO1-dyV34_zKEWfCoI2PaSXtK7MQQ/edit?usp=sharing)
-
-Mar 14
+Jun 6
 : **Lecture**{: .label .label-green } Longitudinal Data and Dynamic Treatment Regime
   : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pptx)
   : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pdf)

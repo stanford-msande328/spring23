@@ -1,26 +1,15 @@
 ---
-title: Week 8
+title: Sensitivity Analysis and Causal ML
 ---
 
-Feb 28
-: **Lecture**{: .label .label-green } Unobserved Confounding and Instruments
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture15_Unobserved_Confounding_and_Instruments.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture15_Unobserved_Confounding_and_Instruments.pdf)
-: Local Average Treatment Effect (LATE); Debiased ML inference in partially linear and non-linear IV models; inference with weak instruments; DML with weak identification
-: ***Reading Materials***
-- Chapter 11 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
-: ***Coding Materials***
-- [DML IV for Impact of 401(K) on Financial Wealth](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/CM4/python-dml-401k-IV.ipynb)
-- [DML IV for Recommendation A/B Tests](https://github.com/stanford-msande228/winter23/blob/main/Case%20Study%20-%20Recommendation%20AB%20Testing%20at%20An%20Online%20Travel%20Company.ipynb#Get-Causal-Effects-with-EconML.ipynb)
-- [Proxy Controls with DML](https://github.com/stanford-msande228/winter23/blob/main/Proxy_Controls.ipynb)
+May 23
+: **Lecture**{: .label .label-green } Omitted variable bias
+: Omitted variable bias in semi-parametric and non-parametric models. Inference on bias bounds
+: ***Required Reading Materials***
+- [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://carloscinelli.com/files/Cinelli%20and%20Hazlett%20(2020)%20-%20Making%20Sense%20of%20Sensitivity.pdf)
+- [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://arxiv.org/abs/2112.13398)
 
-Mar 2
-: **Lecture**{: .label .label-green } Heterogeneous Effects and Policy Learning
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture16_Heterogeneous_Treatment_Effects.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture16_Heterogeneous_Treatment_Effects.pdf)
-: Estimation of Conditional Average Treatment Effects (CATE); Best Linear CATE; Inference on Best Linear CATE
-: ***Further Reading***
-- [Debiased machine learning of conditional average treatment effects and other causal functions](https://academic.oup.com/ectj/article/24/2/264/5899048?rss=1)
-
-Mar 5
-: **Homework**{: .label .label-blue } HW5 Due
+May 25
+: **Student Presentations**{: .label .label-blue }
+- [Sensitivity Analysis in Observational Research: Introducing the E-Value](https://pubmed.ncbi.nlm.nih.gov/28693043/) and [Sensitivity Analysis Without Assumptions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4820664/)
+- [Sensitivity analysis with the R^2 calculus](https://arxiv.org/abs/2301.00040) and [An Omitted Variable Bias Framework for Sensitivity Analysis of Instrumental Variables](https://carloscinelli.com/files/Cinelli%20and%20Hazlett%20(2020)%20-%20OVB%20for%20IV.pdf)

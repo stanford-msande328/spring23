@@ -11,7 +11,7 @@ Apr 4
 - [Single World Intervention Graphs](https://csss.uw.edu/Papers/wp128.pdf)
 
 Apr 6
-: **Lecture 1**{: .label .label-green } Automated Identification in DAGs: and the ID Algorithm
+: **Lecture 1**{: .label .label-green } Automated Identification in DAGs: the ID Algorithm
 : The ID algorithm for general identification and its proof of sufficiency and necessity.
 : ***Required Reading Materials***
 - [A General Identification Condition for Causal Effects](https://ftp.cs.ucla.edu/pub/stat_ser/R290-A.pdf)
