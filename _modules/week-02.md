@@ -1,35 +1,22 @@
 ---
 title: Week 2
 ---
-Jan 16
-: **Homework**{: .label .label-blue } HW1 Released
-  : [Google Doc](https://docs.google.com/document/d/1n6LPw88Ce6m3aYpkNLTqnF0mvPNWhCC8wc_hN5NLrNI/edit?usp=sharing)
-  
-Jan 17
+
+Apr 11
 : **Lecture**{: .label .label-green } Inference in linear models
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture3_Inference_in_Linear_Models.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture3_Inference_in_Linear_Models.pdf)
-  : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture2-Demo.ipynb)
-: Basics of statistical inference in linear models; confidence intervals for p « n; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
-: ***Reading Materials***
-- Chapter 1 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
-: ***Coding Materials***
-- [Predicting Wages](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/PM1_prediction.ipynb)
-- [Predictive Inference on Wage Gap](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM1/inference.ipynb)
-: ***Further Reading***
-- Lovell, [A Simple Proof of the FWL Theorem](https://www.jstor.org/stable/41426805)
-- Cattaneo, Jansson, Newey, [Inference in Linear Regression Models with Many Covariates and Heteroscedasticity](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1328360)
-- Kuchibhotla, Brown, Buja, [Model-free study of ordinary least squares linear regression](https://arxiv.org/pdf/1809.10538.pdf)
+: Causal identification in the presence of unobserved confounding beyond DAGs. (Instrumental variables, DiD, RDD, Synthetic Controls, Proximal inference). 
+: ***Required Reading Materials***
+- [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629)
+- [Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania](https://www.nber.org/papers/w4509)
+- [Regression-discontinuity analysis: An alternative to the ex post facto experiment](https://psycnet.apa.org/record/1962-00061-001)
+- [The Economic Costs of Conflict: A Case Study of the Basque Country](https://www.aeaweb.org/articles?id=10.1257/000282803321455188)
+: ***Further Reading Materials***
+- [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2291629)
+- [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091)
+- [Comparative Politics and the Synthetic Control Method](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
 
-Jan 19
-: **Lecture**{: .label .label-green } Prediction in high dimensional linear models
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture4_Inference_in_High_Dimensional_Linear_Models.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture4_Inference_in_High_Dimensional_Linear_Models.pdf)
-  : [[Demo Code]](https://github.com/stanford-msande228/winter23/blob/main/Lecture3-Demo.ipynb)
-: High dimensional methods and prediction; regularization; lasso; elasticnet;
-: ***Reading Materials***
-- Chapter 3 of [Textbook](https://canvas.stanford.edu/courses/168439/files/folder/Readings)
-: ***Coding Materials***
-- [Penalized Linear Regressions: Simulated Data](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/linear-penalized-regs.ipynb)
-- [Predicting Wages with Penalized Regressions](https://github.com/CausalAIBook/MetricsMLNotebooks/blob/main/PM2/ml-for-wage-prediction.ipynb)
-
+Apr 13
+: **Lecture**{: .label .label-green } Student Presentations
+- [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793) and [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2110.03070)
+- [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982) and [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
+- [Synthetic A/B Testing using Synthetic Interventions](https://arxiv.org/abs/2006.07691)
