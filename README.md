@@ -5,71 +5,38 @@ nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
-  name: MS&E 228 – Applied Causal Inference Powered by ML and AI
+  name: MS&E 328/CS 328 – Foundations of Causal Machine Learning
 ---
 
-# Welcome to MS&E 228 – Applied Causal Inference Powered by ML and AI
+# Welcome to MS&E 328/CS 328 – Foundations of Causal Machine Learning
 
-Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E  
+Instructor: [Vasilis Syrgkanis](https://vsyrgkanis.com/index.html), Assistant Professor, MS&E and CS (courtesy)  
 Units: 3  
-Winter Quarter 2023  
-Tue, Thu 1:30-2:50PM McCullough 115
+Spring Quarter 2023  
+Tue, Thu 3:00-4:20PM Littlefield Center, Rm 107
 
-**Description:**  
-The course will cover fundamentals of modern applied causal inference. Basic principles of causal inference and machine learning and how the two can be combined in practice to deliver causal insights and policy implications in real world datasets, allowing for high-dimensionality and flexible estimation. Lectures will provide foundations of these new methodologies and the course assignments will involve real world data and synthetic data analysis based on these methodologies. 
+**Description and Format:**  
+This is an advanced PhD course on modern theoretical topics at the intersection of causal inference, econometric theory and statistical learning theory. The course will consist of lectures, and student-led presentations. Each week will roughly consist of one lecture and two or three student presentations of research papers related to the theme of the week. For both parts, all students will need to read the corresponding papers and write short reviews of them. The course will also consist of a quarter long project which will involve a detailed literature review on a topic and either a replication of the methodology and the experimental results of a recent research paper or new methodological or theoretical developments on the topic of the project. Candidate research project ideas and areas will be provided; students are also free to propose other projects. The projects can be individual or in teams of up to two students.
 
-![Course Overview](class_overview.png)
-
-**Prerequisites:** Basic knowledge of probability and statistics. Recommended: MS&E 226 or equivalent.
+**Prerequisites:** Good understanding on theoretical foundations of probability and statistics. Optimally, some familiarity with causal inference.
 
 ### Office Hours:  (Starting Week 2)
 
 |                   | Time                       | Location       |
 |-------------------|----------------------------|-----------     |
-| Vasilis Syrgkanis | Thursday 3-4pm             | Huang 252      |
-| Johannes Ferstad  | Tuesdays 3-4pm (cancelled 3/7; See Ed for announcement) | McCullough 115 |
-| Hui Lan           | Mondays 9:30-10:30am       | Spilker 143    |
-
- 
-
-### Format
-
-The course will consist of lectures and homework assignments. Lectures will be held in person and will not be recorded. The lectures will cover fundamentals that fuse classical structural equation models (SEMs) and DAGs, with tools for statistical inference based on machine learning  (lasso, random forest, deep neural networks)  to infer causal parameters and quantify uncertainty. Grading will be primarily based on the weekly homework assignments and secondarily on class participation. There will be a total of 7-8 homeworks, rolled out roughly on a weekly basis, that will involve either mathematical proofs or coding exercises.  
-
+| Vasilis Syrgkanis | Wednesday 2.30-3.30pm      | Huang 252      |
  
 
 ### Grading
 
-* Homework 90%
-* Participation 10%
+* 40% class presentation(s) / paper summaries
+* 60% project (10% proposal, 20% literature review, 30% final report)
 
 ### Course webpages
 
 * Discussion and homework material: [canvas](https://canvas.stanford.edu/)
-* Submissions: [gradescope](https://www.gradescope.com/courses/486969/)
-* Example Code and Notebooks: [Github](https://github.com/CausalAIBook/MetricsMLNotebooks)
+* Submissions: 
 
-
-### Problem sets
-
-There will be a total of 7 or 8 problem sets. Problem sets must be submitted online through Gradescope [gradescope](https://www.gradescope.com/courses/486969/).  Problem set sheets will also be posted on Canvas.
-
-Depending on their length, the total number of points in each set might vary. Each part of each problem will be graded as follows:
-* You will receive zero points if you do not attempt it.
-* If you attempt it, but there are either substantial methodological errors or major conceptual misunderstandings of the material, you will receive 2 points.
-* If you attempt it and there are no substantial methodological errors or major conceptual misunderstandings of the material, you will receive 3 points.
-
-We expect students who make a reasonable effort, even if not perfect, will receive 3 points. Receiving 2 points is intended to be a sign of significant comprehension issues and should only happen in cases where you haven’t been able to keep up with the material.  Since you can get full credit without having been perfect, you should make sure to read the solutions to aid your comprehension of the material.
-
-We encourage discussion of assignments with other classmates, but everybody must turn in their own written solutions in their own words. If you do a substantial subset of the work on your problem set with others, you must document on each assignment the other students that you worked with.  You may work in pairs on coding portions of the assignments, but again, please make sure to clarify in your submission who you collaborated with; if you turn in the same code as someone else, without noting the collaboration, it will be considered an Honor Code violation.  (See also the section on the Honor Code below.)
-
-
-### Computation
-Many of the problem sets, as well as the guided project, will require you to be comfortable carrying out computations on data.  Note that the “official” course language will be python: this is what we use for our problem sets, in our lectures and discussion sections, and the language we support in office hours.
-
-We will provide links to python on the website, as well as any datasets that are needed through the course of the quarter. You can find notebooks that will be used throughout the class in python and R in this github repo: [https://github.com/CausalAIBook/MetricsMLNotebooks](https://github.com/CausalAIBook/MetricsMLNotebooks).
-
-As noted above, you are welcome to work in pairs on any computational component in the class, and on the project.  In addition, you are welcome to use another language (e.g., R), for the project, but note that the course staff is only responsible to provide technical support for python.  
 
 **Late day policy**
 
@@ -125,6 +92,7 @@ Course lecture notes will be posted online in the form of powerpoint presentatio
 * Kiciman, Sharma, [Causal Reasoning: Fundamentals and Machine Learning Applications](https://causalinference.gitlab.io/book/)
 * Shai Shalev-Shwartz and Shai Ben-David, [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 * Wainwright, [High Dimensional Statistics: A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)
+
 # Other references
 
 Here is an assortment of other books that you may find useful to consult but which are not available online.
@@ -140,73 +108,50 @@ Here is an assortment of other books that you may find useful to consult but whi
 
 # Course Plan
 
-**Lecture 1:** Introduction; case studies; importance of causality; importance of handling high dimensional data/flexible modeling;
+**Lecture 1:** Potential Outcomes and DAGs.
 
+Causal identification via the potential outcomes framework, the structural equation framework and its DAG representation. Single world intervention graphs (SWIGs) and identification by adjustment. Proof of D-separation implies conditional independence.
+
+**Lecture 2:**  Automated Identification in DAGs: the ID Algorithm
+
+The ID algorithm for general identification and its proof of sufficiency and necessity.
+
+**Lecture 3:** Identification with Unobserved Confounding beyond DAGs
+
+Causal identification in the presence of unobserved confounding beyond DAGs. (Instrumental variables, DiD, RDD, Synthetic Controls, Proximal inference).
  
+**Lecture 4:** Semi-Parametric Inference and Neyman Orthogonality
 
-### Experiments and causality
+Estimation via moment conditions. Neyman orthogonality and Debiased Machine Learning. Proof of asymptotic linearity for Neyman orthogonal moments with sample splitting and without sample splitting. Automatic Debiased Machine Learning and proof. Proof of the Lasso rate. Discuss the multiplier bootstrap for joint inference.
 
-**Lecture 2:** Causality via Experiments; Potential Outcomes framework; Two means estimate and confidence interval/asymptotic distribution; limitations of trials; what if we have pre-treatment co-variates: precision and heterogeneity
+**Lecture 5:** Identification and Inference in Dynamic Regimes
 
- 
-### Inference with linear models
+Identification and inference of dynamic counterfactual policies (non-parametric and semi-parametric). Estimation of optimal dynamic regimes and g-estimation. Identification proof. Auto-DML and proof for dynamic regime
 
-**Lecture 3:** Basics of statistical inference in linear models; confidence intervals for p << n; simultaneous confidence bands; interpretation of coefficient as partialling out; inference on ATE from trials via regression; Revisiting the role of covariates in randomized trials: precision and heterogeneity: variance characterization and comparisons
+**Lecture 6:** Orthogonal Statistical Learning Theory for Heterogeneous Effects
 
-**Lecture 4:** High dimensional methods and prediction; regularization; lasso; elasticnet;
-
-**Lecture 5:** Inference in high-dimensional methods; double lasso; partialling out; intro to Neyman orthogonality
-
- 
-### Observational data, causality, DAGs
-
-**Lecture 6:** Causality in observational data; confounding; conditional ignorability;  identification by conditioning; identification via propensity scores
-
-**Lecture 7:** Structural equations models and DAGs; basics of DAGs; conditional ignorability in DAGs; Good and Bad controls
-
-**Lecture 8:** General DAGs and Counterfactuals; SWIGs; D-separation; Interventions; Re-visting identification by conditioning
-
-**Lecture 9:** Graphical criteria for valid adjustment sets; Good and Bad Controls
- 
-
-### ML estimation of non-linear models
-
-**Lecture 10:** Modern methods for non-linear prediction: trees and forests; neural networks; feature engineering; some guarantees
-
-**Lecture 11:** Ensembling; stacking; auto-ML
-
- 
-
-### Statistical inference with non-linear models
-
-**Lecture 12:** DML for PLR and fully non-linear for ATE; Generic debiased ML framework
-
- 
-
-### Unobserved Confounding
-
-**Lecture 13:** Omitted variable bias;  Instrumental variables; LATE; proximal inference
-
-**Lecture 14:** Inference in PL IV and non-linear IV models; inference with weak instruments; DML with weak identification
-
- 
-
-### Heterogeneous Effects and Policy Learning
-
-**Lecture 15:** CATE methods; meta learners; neural network methods; policy learning
-
-**Lecture 16:** Evaluation and model selection of CATE methods; for Trials; for Observational Data
+Orthogonal statistical learning theory. Localized rademacher complexities and generalization bounds.
 
 
-### Further Topics (Subject to change)
+**Lecture 7:** Non-Parametric Inference for Heterogeneous Effects
 
-**Lecture 17:** Censoring
+Non-parametric confidence intervals, random forests and nearest neighbors. Proof of asymptotic linearity for kernel based moment estimators. Proof of bias for k-NN and (maybe proof of bias for Trees). Proof of confidence intervals with nuisance parameters and local orthogonality.
 
-**Lecture 18:** Dynamic regime; Optimal regime; off-policy RL; Surrogates
+**Lecture 8:** Non-Parametric Learning and Conditional Moment Restrictions
 
-**Lecture 19:** More structural approaches to un-observed confounding: diff-in-diff; synthetic controls; regression discontinuity (soft RD)
+Adversarial estimators for conditional moment restrictions. Statistical learning theory for adversarial estimators. Confidence intervals on functionals of endogenous regression functions. Proof of the rate for adversarial estimators based on the localized complexities. Proof of the auto-debiased approach for functionals of endogenous regressions.
 
-**Lecture 20:** TBA
+**Lecture 9:** Sensitivity Analysis and Causal ML
 
+Omitted variable bias in semi-parametric and non-parametric models. Inference on bias bounds
+
+**Lecture 10:** Representation Learning and Causal Inference
+
+Linear and Non-Linear Independent Component Analysis. Impossibilities and possibilities in non-linear causal representation learning.
+
+
+**Lecture 11:** Causal Discovery and Post-Discovery Inference
+
+Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing.
 
 
