@@ -6,11 +6,11 @@ Apr 18
 : **Lecture**{: .label .label-green } Semi-Parametric Inference and Neyman Orthogonality
 : Estimation via moment conditions. Neyman orthogonality and Debiased Machine Learning. Proof of asymptotic linearity for Neyman orthogonal moments with sample splitting and without sample splitting. Automatic Debiased Machine Learning and proof. Proof of the Lasso rate. Discuss the multiplier bootstrap for joint inference.
 : ***Required Reading Materials***
-- [Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models](https://www.jstor.org/stable/2669923)
 - [Double/debiased machine learning for treatment and structural parameters](https://academic.oup.com/ectj/article/21/1/C1/5056401)
 - [Automatic Debiased Machine Learning via Neural Nets for Generalized Linear Regression](https://arxiv.org/abs/2104.14737)
 - [Debiased Machine Learning without Sample-Splitting for Stable Estimators](https://arxiv.org/abs/2206.01825)
 : ***Further Reading Materials***
+- [Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models](https://www.jstor.org/stable/2669923)
 - [High-dimensional econometrics and regularized GMM](https://arxiv.org/pdf/1806.01888.pdf)
 
 Apr 20

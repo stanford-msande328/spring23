@@ -17,6 +17,6 @@ Apr 11
 
 Apr 13
 : **Student Presentations**{: .label .label-blue }
-- [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793) and [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2110.03070)
+- [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793) and [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2210.08139)
 - [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982) and [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
 - [Synthetic A/B Testing using Synthetic Interventions](https://arxiv.org/abs/2006.07691)

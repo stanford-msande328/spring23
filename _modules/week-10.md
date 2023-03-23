@@ -4,7 +4,7 @@ title: Causal Discovery and Post-Discovery Inference
 
 Jun 6
 : **Lecture**{: .label .label-green } Theoretical Results in Causal Discovery
-: Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing (proof for kernel based).
+: Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing.
 : ***Required Reading Materials***
 - [A Linear Non-Gaussian Acyclic Model for Causal Discovery](https://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)
 - [Causal Inference in the Presence of Latent Variables and Selection Bias](https://arxiv.org/abs/1302.4983)
