@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Causal Identification
 ---
 
 Apr 4
