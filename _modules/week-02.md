@@ -3,7 +3,7 @@ title: Identification under Unobserved Confounding
 ---
 
 Apr 11
-: **Lecture**{: .label .label-green } Inference in linear models
+: **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
 : Causal identification in the presence of unobserved confounding beyond DAGs. (Instrumental variables, DiD, RDD, Synthetic Controls, Proximal inference). 
 : ***Required Reading Materials***
 - [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629)

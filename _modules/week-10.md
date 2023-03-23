@@ -3,25 +3,21 @@ title: Causal Discovery and Post-Discovery Inference
 ---
 
 Jun 6
-: **Lecture**{: .label .label-green } Longitudinal Data and Dynamic Treatment Regime
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture19_Dynamic_Treatment_Effects.pdf)
-  : [[Demo]](https://github.com/stanford-msande228/winter23/blob/main/DynamicEffects.ipynb)
-: ***Further Reading***
-- [Hernan, Robins, Causal Inference, What If](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1268/2022/12/hernanrobins_WhatIf_20dec22.pdf)
-- [Dynamic Partialling Out (G-estimation)](https://arxiv.org/pdf/2002.07285.pdf)
-- [Long Term Effects and Dynamic Treatments](https://arxiv.org/pdf/2103.08390.pdf)
-- [Automatic Debiased ML for Dynamic Treatments](https://arxiv.org/abs/2203.13887)
-- [Estimation of Heterogeneous Effects with Survival Outcomes](https://arxiv.org/abs/2207.07758)
-- [Meta Learners for Survival Data R-package](https://github.com/som-shahlab/survlearners)
+: **Lecture**{: .label .label-green } Theoretical Results in Causal Discovery
+: Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing (proof for kernel based).
+: ***Required Reading Materials***
+- [A Linear Non-Gaussian Acyclic Model for Causal Discovery](https://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)
+- [Causal Inference in the Presence of Latent Variables and Selection Bias](https://arxiv.org/abs/1302.4983)
+- [Kernel-based Conditional Independence Test and Application in Causal Discovery](https://arxiv.org/abs/1202.3775)
+: ***Further Reading Materials***
+- [Pairwise Likelihood Ratios for Estimation of Non-Gaussian Structural Equation Models](https://www.cs.helsinki.fi/u/ahyvarin/papers/JMLR13.pdf)
+- [Nonlinear causal discovery with additive noise models](https://papers.nips.cc/paper_files/paper/2008/hash/f7664060cc52bc6f3d620bcedc94a4b6-Abstract.html)
+- [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)
+- [LinGAM Survey](https://drive.google.com/file/d/16QctkAnE55yoosGbA1flRCLmanKDbKfc/view)
 
-Mar 16
-: **Lecture**{: .label .label-green } Discussion
-  : [[PPTX]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture20_Discussion_and_FAQ.pptx)
-  : [[PDF]](https://github.com/stanford-msande228/winter23/raw/main/MSANDE228_Lecture20_Discussion_and_FAQ.pdf)
-  
-Mar 17
-: **Homework**{: .label .label-blue } Part I of HW7 Due
 
-Mar 23
-: **Homework**{: .label .label-blue } Part II of HW7 Due (hard deadline)
+Jun 8
+: **Student Presentations**{: .label .label-blue }
+- [Estimation of causal effects using linear non-Gaussian causal models with hidden variables](https://www.sciencedirect.com/science/article/pii/S0888613X08000212?ref=pdf_download&fr=RR-2&rr=7ac9e648994f97eb) and [Learning Linear Non-Gaussian Causal Models in the Presence of Latent Variables](https://jmlr.org/papers/volume21/19-260/19-260.pdf)
+- [Scalable Causal Discovery with Score Matching](https://openreview.net/pdf?id=v56PHv_W2A) and [Score Matching Enables Causal Discovery of Nonlinear Additive Noise Models](https://proceedings.mlr.press/v162/rolland22a/rolland22a.pdf) and [Score-based Causal Representation Learning with Interventions](https://arxiv.org/abs/2301.08230)
+- [Valid Inference after Causal Discovery](https://arxiv.org/abs/2208.05949)
