@@ -1,19 +1,14 @@
 ---
-title: Identification under Unobserved Confounding
+title: Causal Identification
 ---
 
 Apr 11
-: **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
-: Causal identification in the presence of unobserved confounding beyond DAGs. (Instrumental variables, DiD, RDD, Synthetic Controls, Proximal inference). 
+: **Lecture**{: .label .label-green } Automated Identification in DAGs: the ID Algorithm
+: The ID algorithm for general identification and its proof of sufficiency and necessity.
 : ***Required Reading Materials***
-- [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629)
-- [Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania](https://www.nber.org/papers/w4509)
-- [Regression-discontinuity analysis: An alternative to the ex post facto experiment](https://psycnet.apa.org/record/1962-00061-001)
-- [The Economic Costs of Conflict: A Case Study of the Basque Country](https://www.aeaweb.org/articles?id=10.1257/000282803321455188)
-: ***Further Reading Materials***
-- [Identification and Estimation of Local Average Treatment Effects](https://www.jstor.org/stable/2291629)
-- [Regression discontinuity designs: A guide to practice](https://www.sciencedirect.com/science/article/pii/S0304407607001091)
-- [Comparative Politics and the Synthetic Control Method](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
+- [A General Identification Condition for Causal Effects](https://ftp.cs.ucla.edu/pub/stat_ser/R290-A.pdf)
+- [Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models](https://ftp.cs.ucla.edu/pub/stat_ser/r327.pdf)
+- [Nested Markov Properties for Acyclic Directed Mixed Graphs](https://arxiv.org/abs/1701.06686)
 
 Apr 13
 : **Student Presentations**{: .label .label-blue }
