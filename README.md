@@ -29,8 +29,9 @@ This is an advanced PhD course on modern theoretical topics at the intersection 
 
 ### Grading
 
-* 40% class presentation(s) / paper summaries
-* 60% project (10% proposal, 20% literature review, 30% final report)
+* 35% class presentation(s) / paper summaries
+* 15% scribing
+* 50% project (20% literature review, 30% final report)
 
 ### Course webpages
 
