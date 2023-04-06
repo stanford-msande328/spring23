@@ -7,10 +7,10 @@ Jun 6
 : Linear ICA and discovery; LinGAM (proof of identification). Causal discovery with unobserved confounding (FCI). Conditional independence testing.
 : ***Required Reading Materials***
 - [A Linear Non-Gaussian Acyclic Model for Causal Discovery](https://www.jmlr.org/papers/volume7/shimizu06a/shimizu06a.pdf)
-- [Causal Inference in the Presence of Latent Variables and Selection Bias](https://arxiv.org/abs/1302.4983)
-- [Kernel-based Conditional Independence Test and Application in Causal Discovery](https://arxiv.org/abs/1202.3775)
 - [The Hardness of Conditional Independence Testing and the Generalised Covariance Measure](https://arxiv.org/abs/1804.07203)
 : ***Further Reading Materials***
+- [Causal Inference in the Presence of Latent Variables and Selection Bias](https://arxiv.org/abs/1302.4983)
+- [Kernel-based Conditional Independence Test and Application in Causal Discovery](https://arxiv.org/abs/1202.3775)
 - [Pairwise Likelihood Ratios for Estimation of Non-Gaussian Structural Equation Models](https://www.cs.helsinki.fi/u/ahyvarin/papers/JMLR13.pdf)
 - [Nonlinear causal discovery with additive noise models](https://papers.nips.cc/paper_files/paper/2008/hash/f7664060cc52bc6f3d620bcedc94a4b6-Abstract.html)
 - [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)

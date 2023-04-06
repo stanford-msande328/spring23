@@ -7,8 +7,10 @@ Apr 11
 : The ID algorithm for general identification and its proof of sufficiency and necessity.
 : ***Required Reading Materials***
 - [A General Identification Condition for Causal Effects](https://ftp.cs.ucla.edu/pub/stat_ser/R290-A.pdf)
-- [Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models](https://ftp.cs.ucla.edu/pub/stat_ser/r327.pdf)
 - [Nested Markov Properties for Acyclic Directed Mixed Graphs](https://arxiv.org/abs/1701.06686)
+: ***Further Reading Materials***
+- [Identification of Joint Interventional Distributions in Recursive Semi-Markovian Causal Models](https://ftp.cs.ucla.edu/pub/stat_ser/r327.pdf)
+
 
 Apr 13
 : **Student Presentations**{: .label .label-blue }

@@ -8,8 +8,8 @@ May 30
 : ***Required Reading Materials***
 - [Towards Causal Representation Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924&tag=1)
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](http://proceedings.mlr.press/v97/locatello19a/locatello19a.pdf)
-- [Independent component analysis: algorithms and applications](https://www.sciencedirect.com/science/article/pii/S0893608000000265)
 : ***Further Reading Materials***
+- [Independent component analysis: algorithms and applications](https://www.sciencedirect.com/science/article/pii/S0893608000000265)
 - [Independent component analysis: recent advances ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538438/pdf/rsta20110534.pdf)
 
 Jun 1
