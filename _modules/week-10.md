@@ -16,10 +16,10 @@ Jun 6
 - [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)
 - [LinGAM Survey](https://drive.google.com/file/d/16QctkAnE55yoosGbA1flRCLmanKDbKfc/view)
 - [The Weighted Generalised Covariance Measure](https://arxiv.org/abs/2111.04361)
+- [Estimation of causal effects using linear non-Gaussian causal models with hidden variables](https://www.sciencedirect.com/science/article/pii/S0888613X08000212?ref=pdf_download&fr=RR-2&rr=7ac9e648994f97eb) and [Learning Linear Non-Gaussian Causal Models in the Presence of Latent Variables](https://jmlr.org/papers/volume21/19-260/19-260.pdf)
 
 Jun 8
 : **Student Presentations**{: .label .label-blue }
-- [Estimation of causal effects using linear non-Gaussian causal models with hidden variables](https://www.sciencedirect.com/science/article/pii/S0888613X08000212?ref=pdf_download&fr=RR-2&rr=7ac9e648994f97eb) and [Learning Linear Non-Gaussian Causal Models in the Presence of Latent Variables](https://jmlr.org/papers/volume21/19-260/19-260.pdf)
 - [Scalable Causal Discovery with Score Matching](https://openreview.net/pdf?id=v56PHv_W2A) and [Score Matching Enables Causal Discovery of Nonlinear Additive Noise Models](https://proceedings.mlr.press/v162/rolland22a/rolland22a.pdf) and [Score-based Causal Representation Learning with Interventions](https://arxiv.org/abs/2301.08230)
 - [Valid Inference after Causal Discovery](https://arxiv.org/abs/2208.05949)
 
