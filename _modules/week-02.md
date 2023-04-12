@@ -4,7 +4,7 @@ title: Causal Identification
 
 Apr 11
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
-: Causal identification in the presence of unobserved confounding beyond DAGs. (Instrumental variables, DiD, RDD, Synthetic Controls, Proximal inference). 
+: Causal identification in the presence of unobserved confounding beyond DAGs. Front-Door, Instrumental variables (IV), Diff-in-Diff (DiD), Regression Discontinuity Design (RDD). 
 : ***Required Reading Materials***
 - [Identification of Causal Effects Using Instrumental Variables](https://www.jstor.org/stable/2291629)
 - [Minimum Wages and Employment: A Case Study of the Fast Food Industry in New Jersey and Pennsylvania](https://www.nber.org/papers/w4509)
@@ -18,8 +18,9 @@ Apr 11
 - [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
 
 Apr 13
+: **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
+: Causal identification in the presence of unobserved confounding beyond DAGs. (Smooth RDD, Proximal inference, Synthetic Controls). 
 : **Student Presentations**{: .label .label-blue }
-- [The Causal-Neural Connection: Expressiveness, Learnability, and Inference](https://arxiv.org/abs/2107.00793) and [Partial Identification of Treatment Effects with Implicit Generative Models](https://arxiv.org/abs/2210.08139)
 - [Synthetic A/B Testing using Synthetic Interventions](https://arxiv.org/abs/2006.07691)
 
 Apr 14
