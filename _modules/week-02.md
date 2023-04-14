@@ -16,12 +16,9 @@ Apr 11
 
 Apr 13
 : **Lecture**{: .label .label-green } Unobserved Confounding beyond DAGs
-: Causal identification in the presence of unobserved confounding beyond DAGs. (Smooth RDD, Proximal inference, Synthetic Controls). 
+: Causal identification in the presence of unobserved confounding beyond DAGs. (Synthetic Controls). 
 : ***Required Reading Materials***
 - [Comparative Politics and the Synthetic Control Method](https://economics.mit.edu/sites/default/files/publications/Comparative%20Politics%20and%20the%20Synthetic%20Control.pdf)
-- [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982)
-: ***Further Reading Materials***
-- [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
 
 : **Student Presentations**{: .label .label-blue }
 - [Synthetic A/B Testing using Synthetic Interventions](https://arxiv.org/abs/2006.07691)

@@ -8,7 +8,7 @@ May 23
 : ***Required Reading Materials***
 - [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://carloscinelli.com/files/Cinelli%20and%20Hazlett%20(2020)%20-%20Making%20Sense%20of%20Sensitivity.pdf)
 - [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://arxiv.org/abs/2112.13398)
-: ***Further Reading Materials
+: ***Further Reading Materials***
 - [Sensitivity analysis with the R^2 calculus](https://arxiv.org/abs/2301.00040)
 - [An Omitted Variable Bias Framework for Sensitivity Analysis of Instrumental Variables](https://carloscinelli.com/files/Cinelli%20and%20Hazlett%20(2020)%20-%20OVB%20for%20IV.pdf)
 

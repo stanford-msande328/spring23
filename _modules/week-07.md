@@ -8,7 +8,9 @@ May 16
 : ***Required Reading Materials***
 - [Minimax Estimation of Conditional Moment Models](https://arxiv.org/abs/2006.07201)
 - [Inference on Strongly Identified Functionals of Weakly Identified Functions](https://arxiv.org/abs/2208.08291)
-
+: ***Further Reasing Materials***
+- [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982)
+- [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
 
 May 18
 : **Student Presentations**{: .label .label-blue } 
