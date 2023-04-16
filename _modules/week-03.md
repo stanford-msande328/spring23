@@ -12,10 +12,12 @@ Apr 18
 - [Adjusting for Nonignorable Drop-Out Using Semiparametric Nonresponse Models](https://www.jstor.org/stable/2669923)
 - [Automatic Debiased Machine Learning via Neural Nets for Generalized Linear Regression](https://arxiv.org/abs/2104.14737)
 - [High-dimensional econometrics and regularized GMM](https://arxiv.org/pdf/1806.01888.pdf)
-- [Off-policy estimation of linear functionals: Non-asymptotic theory for semi-parametric efficiency](https://arxiv.org/abs/2209.13075) and [Kernel-based off-policy estimation without overlap: Instance optimality beyond semiparametric efficiency](https://arxiv.org/abs/2301.06240)
+- [Off-policy estimation of linear functionals: Non-asymptotic theory for semi-parametric efficiency](https://arxiv.org/abs/2209.13075)
+- [Kernel-based off-policy estimation without overlap: Instance optimality beyond semiparametric efficiency](https://arxiv.org/abs/2301.06240)
+- [RieszNet and ForestRiesz](https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf)
 
 Apr 20
 : **Student Presentations**{: .label .label-blue }
-- [Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/abs/1906.02120) and [RieszNet and ForestRiesz](https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf)
+- [Adapting Neural Networks for the Estimation of Treatment Effects](https://arxiv.org/abs/1906.02120)
 - [Approximate Residual Balancing: De-Biased Inference of Average Treatment Effects in High Dimensions](https://arxiv.org/abs/1604.07125)
 

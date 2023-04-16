@@ -8,9 +8,11 @@ May 9
 : ***Required Reading Materials***
 - [Orthogonal Random Forest for Causal Inference](https://arxiv.org/abs/1806.03467)
 - [Non-Parametric Inference Adaptive to Intrinsic Dimension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313987)
+: ***Further Reading Materials***
+- [Estimation and Inference with Trees and Forests in High Dimensions](https://arxiv.org/abs/2007.03210)
 
 May 11
 : **Student Presentations**{: .label .label-blue } 
-- [Estimation and Inference with Trees and Forests in High Dimensions](https://arxiv.org/abs/2007.03210) and [Asymptotic properties of high-dimensional random forests](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Asymptotic-properties-of-high-dimensional-random-forests/10.1214/22-AOS2234.full)
+- [Asymptotic properties of high-dimensional random forests](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/Asymptotic-properties-of-high-dimensional-random-forests/10.1214/22-AOS2234.full)
 - [V-statistics and variance estimation](https://dl.acm.org/doi/abs/10.5555/3546258.3546545)
 

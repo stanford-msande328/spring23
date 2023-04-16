@@ -11,8 +11,10 @@ May 16
 : ***Further Reasing Materials***
 - [An Introduction to Proximal Causal Learning](https://arxiv.org/abs/2009.10982)
 - [The Proximal ID algorithm](https://arxiv.org/abs/2108.06818)
+- [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/abs/2111.06784)
+- [Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.15332)
 
 May 18
 : **Student Presentations**{: .label .label-blue } 
 - [Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes](https://jmlr.org/papers/volume21/19-827/19-827.pdf)
-- [A Minimax Learning Approach to Off-Policy Evaluation in Confounded Partially Observable Markov Decision Processes](https://arxiv.org/abs/2111.06784) and [Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes](https://arxiv.org/abs/2110.15332)
+
